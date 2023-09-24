@@ -13,7 +13,7 @@ def main():
     data = list(map(int, input("Enter ten numbers separated by a space: ").split()))
 
     # Prompt user for index at which sort will 
-    # begin.
+    # end.
     first = int(input("Enter the index at which the search will end: "))
 
     # Display the original unsorted array.
